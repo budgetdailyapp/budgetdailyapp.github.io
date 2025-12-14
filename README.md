@@ -48,8 +48,8 @@ View the full privacy policy here:
 | Version | Date | Notes |
 |----------|------|-------|
 | **1.1** | Nov 2025 | Initial release |
-| **1.2** | Dec 2025 | Bug Fixs and UI Improvments |
-| **1.3** | Dec 2025 | Bug Fixs and UI Improvments & Ad Support |
+| **1.2** | Dec 2025 | Bug Fixes and UI Improvments |
+| **1.3** | Dec 2025 | Bug Fixes and UI Improvments & Ad Support |
 
 ---
 

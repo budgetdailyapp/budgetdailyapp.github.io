@@ -1,9 +1,9 @@
 
 # 💰 Budget Daily
-**Track your money with clarity and control — no subscriptions, no ads.**
+**Track your money with clarity and control — no subscriptions.**
 
 Budget Daily helps you manage expenses, income, and bills in one elegant app built for privacy and simplicity.  
-Pay once, own it forever, and take control of your finances every day.
+Free with Ads, or pay once, own it forever, and take control of your finances every day.
 
 ---
 

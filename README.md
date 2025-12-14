@@ -27,7 +27,7 @@ Need help? We’re here for you.
   - *How do I restore my purchase?*  
     In the Settings, there is a section called Purchases, there you can Restore your purchases.  
   - *Why can’t I see my data on another device?*  
-    Ensure iCloud Sync is enabled in Settings → App Settings.  
+    Ensure iCloud Sync is enabled in Settings → App Settings, and your iCloud Data is not full.  
   - *How do I reset my budget data?*  
     Tap **Settings → Reset App** within the app (this is permanent and will clear your iCloud data as well).
   - *How does Bill Transfers work?*

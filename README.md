@@ -25,11 +25,13 @@ Need help? We’re here for you.
 - **Email:** [budgetdailyapp@gmail.com](mailto:budgetdailyapp@gmail.com)  
 - **FAQ:**  
   - *How do I restore my purchase?*  
-    Simply reinstall the app using the same Apple ID — your purchase will automatically restore.  
+    In the Settings, there is a section called Purchases, there you can Restore your purchases.  
   - *Why can’t I see my data on another device?*  
-    Ensure iCloud Sync is enabled in Settings → Budget Daily.  
+    Ensure iCloud Sync is enabled in Settings → App Settings.  
   - *How do I reset my budget data?*  
-    Tap **Settings → Reset Data** within the app (this is permanent).  
+    Tap **Settings → Reset App** within the app (this is permanent and will clear your iCloud data as well).
+  - *How does Bill Transfers work?*
+  - When you click the Transfer button on a bill, it will move that bill to the closes Date you set for that Bill. Ex: Current date is Dec 20, 2025, Your bill is due on the 12th, it will put the bill in Jan 12th since you have passed Dec 12th already.
 
 If you encounter a bug or have feedback, please include your device model and iOS version when contacting support.
 
